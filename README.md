@@ -13,6 +13,8 @@ The project includes the following components:
 
 ## AutoCAD design of the smart home prototype(Plan view)![image](https://github.com/AhmedMohamedomar74/SmartHome_Project/assets/119351564/78927fc7-33af-473c-935c-ae23a3611c88)
 ## AutoCAD design of the smart home prototype(The Walls of The prototype)![image](https://github.com/AhmedMohamedomar74/SmartHome_Project/assets/119351564/95318348-a911-42e9-8e88-561d06f356fa)
+## Real Design in wood ![image](https://github.com/AhmedMohamedomar74/SmartHome_Project/assets/119351564/fb2f95d2-b8b2-4a84-b2ef-38047726126b)
+
 ## Simulation With Proteus ![image](https://github.com/AhmedMohamedomar74/SmartHome_Project/assets/119351564/8e0c185d-405e-4ec2-8526-278cc185e3c8)
 ![image](https://github.com/AhmedMohamedomar74/SmartHome_Project/assets/119351564/8c2daef9-a4a5-4329-b9c5-e8ec3726d518)
 # Video
